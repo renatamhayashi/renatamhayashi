@@ -6,7 +6,7 @@
 
 - 🌱 Estou estudando HTML, CSS e Javascript
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=radical&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Renata Mayumi&show_icons=true&theme=radical&count_private=true)
 
   <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
