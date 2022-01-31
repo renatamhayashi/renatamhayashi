@@ -7,10 +7,7 @@
 - 😄 Pronomes: ela/dela
 - 🌱 Estou estudando HTML, CSS e Javascript
 
-<div>
-  <a href="https://github.com/renatamhayashi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatamhayashi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=radical&count_private=true)
 
   <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
